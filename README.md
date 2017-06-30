@@ -1,1 +1,17 @@
-# Vue 学习笔记  所有的文件都在 包括node_modules 不用npm install了
+
+
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+
+```
+
+
+
